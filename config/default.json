@@ -1,0 +1,11 @@
+{
+    "AWS": {
+        "CostExplorer" : {
+            "apiVersion" : "2017-10-25",
+            "accessKeyId" : "AKIAJVCSDEMODEMOTEBVXQ",
+            "secretAccessKey" : "yWKUsDemoDempDempoDemoEVGPvKL9DI9hZuz9Gp6cEXB",
+            "region" : "us-east-1"
+        }
+
+    }
+}

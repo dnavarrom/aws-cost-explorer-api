@@ -1,0 +1,23 @@
+{
+  "name": "aws-cost-explorer-api",
+  "version": "1.0.0",
+  "description": "Example REST API for aws-cost-explorer module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnavarrom/aws-cost-explorer-api.git"
+  },
+  "author": "Diego Navarro M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnavarrom/aws-cost-explorer-api/issues"
+  },
+  "homepage": "https://github.com/dnavarrom/aws-cost-explorer-api#readme",
+  "dependencies": {
+    "aws-cost-explorer": "^0.1.1",
+    "express": "^4.16.2"
+  }
+}
